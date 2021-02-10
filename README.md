@@ -17,3 +17,5 @@ Explanation video less than 15MB (This was due to the platform. I spoke very qui
 Explanation video must explain how each of the project requirements were met
 Explanation video must give a reason why your solution is the best solution
 
+Video link:
+https://youtu.be/4m-AWDWWcCU
